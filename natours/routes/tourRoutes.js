@@ -12,3 +12,4 @@ router
   .get(tourController.getTour)
   .patch(tourController.updateTour);
 module.exports = router;
+
